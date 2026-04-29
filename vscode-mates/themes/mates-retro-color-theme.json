@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "VSCode Mates Retro Terminal",
+    "name": "Mates Retro Terminal",
     "type": "dark",
     "colors": {
         "editor.background": "#0A1C2A",

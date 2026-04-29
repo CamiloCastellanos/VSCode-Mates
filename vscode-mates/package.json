@@ -21,17 +21,17 @@
     ],
     "themes": [
       {
-        "label": "VSCode Mates Neon Night",
+        "label": "Mates Neon Night",
         "uiTheme": "vs-dark",
         "path": "./themes/mates-neon-color-theme.json"
       },
       {
-        "label": "VSCode Mates Retro Terminal",
+        "label": "Mates Retro Terminal",
         "uiTheme": "vs-dark",
         "path": "./themes/mates-retro-color-theme.json"
       },
       {
-        "label": "VSCode Mates Cartoon Morning",
+        "label": "Mates Cartoon Morning",
         "uiTheme": "vs",
         "path": "./themes/mates-cartoon-color-theme.json"
       }
