@@ -1,0 +1,209 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "VSCode Mates Retro Terminal",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#0A1C2A",
+        "editor.foreground": "#CCD6A8",
+        "editor.lineHighlightBackground": "#1A2F3A",
+        "editor.selectionBackground": "#2D3B4A",
+        "editor.inactiveSelectionBackground": "#1F2F38",
+        "editorCursor.foreground": "#11B7E7",
+        "editorWhitespace.foreground": "#3B5540",
+        "editorIndentGuide.background": "#2A3F30",
+        "editorIndentGuide.activeBackground": "#5A7A5A",
+        "editorLineNumber.foreground": "#3D5A55",
+        "editorLineNumber.activeForeground": "#A4F781",
+        "editorBracketHighlight.foreground1": "#E989A3",
+        "editorBracketHighlight.foreground2": "#EC4600",
+        "editorBracketHighlight.foreground3": "#11B7E7",
+        "editorGutter.addedBackground": "#A4F781",
+        "editorGutter.modifiedBackground": "#EC4600",
+        "editorGutter.deletedBackground": "#E989A3",
+        "terminal.background": "#0A1C2A",
+        "terminal.foreground": "#CCD6A8",
+        "terminal.ansiBlack": "#1E2A2E",
+        "terminal.ansiRed": "#EC4600",
+        "terminal.ansiGreen": "#A4F781",
+        "terminal.ansiYellow": "#ECC46E",
+        "terminal.ansiBlue": "#11B7E7",
+        "terminal.ansiMagenta": "#E989A3",
+        "terminal.ansiCyan": "#65D1CC",
+        "terminal.ansiWhite": "#CCD6A8",
+        "panel.background": "#0A1C2A",
+        "sideBar.background": "#07151F",
+        "sideBar.foreground": "#BCC89A",
+        "sideBarTitle.foreground": "#E6B856",
+        "activityBar.background": "#051016",
+        "activityBar.foreground": "#E6B856",
+        "activityBar.inactiveForeground": "#3D5A55",
+        "statusBar.background": "#051016",
+        "statusBar.foreground": "#BCC89A",
+        "statusBar.noFolderBackground": "#0A1C2A",
+        "titleBar.activeBackground": "#0A1C2A",
+        "titleBar.activeForeground": "#BCC89A",
+        "titleBar.inactiveBackground": "#07151F",
+        "titleBar.inactiveForeground": "#3D5A55",
+        "input.background": "#1A2F3A",
+        "input.foreground": "#CCD6A8",
+        "input.placeholderForeground": "#3D5A55",
+        "dropdown.background": "#1A2F3A",
+        "dropdown.foreground": "#CCD6A8",
+        "list.activeSelectionBackground": "#2D3B4A",
+        "list.activeSelectionForeground": "#E6B856",
+        "list.hoverBackground": "#1F2F38",
+        "tab.activeBackground": "#0A1C2A",
+        "tab.activeForeground": "#E6B856",
+        "tab.inactiveBackground": "#07151F",
+        "tab.inactiveForeground": "#3D5A55",
+        "tab.border": "#1A2F3A",
+        "scrollbarSlider.background": "#2D3B4A",
+        "scrollbarSlider.hoverBackground": "#3B5540",
+        "scrollbarSlider.activeBackground": "#5A7A5A"
+    },
+    "tokenColors": [
+        {
+            "name": "Comment - Whisper of the Wind Fish",
+            "scope": "comment",
+            "settings": {
+                "foreground": "#4F7A66",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "String - Grass of Koholint",
+            "scope": "string",
+            "settings": {
+                "foreground": "#A4F781"
+            }
+        },
+        {
+            "name": "Number - Rupee (Orange)",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#EC4600"
+            }
+        },
+        {
+            "name": "Keyword - Sacred Power (Pink)",
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#E989A3",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Keyword Control - Hero's Will",
+            "scope": "keyword.control",
+            "settings": {
+                "foreground": "#E989A3"
+            }
+        },
+        {
+            "name": "Function Name - Sky of Koholint (Blue)",
+            "scope": "entity.name.function, meta.function-call.generic",
+            "settings": {
+                "foreground": "#11B7E7"
+            }
+        },
+        {
+            "name": "Parameters - Tropical Fruit",
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#E6B856"
+            }
+        },
+        {
+            "name": "Variable - Sand of Mabe Beach",
+            "scope": "variable, variable.other.readwrite, variable.other.object",
+            "settings": {
+                "foreground": "#CCD6A8"
+            }
+        },
+        {
+            "name": "Class Name - Mysterious Island",
+            "scope": "entity.name.class, entity.name.type, entity.name.type.class",
+            "settings": {
+                "foreground": "#E6B856"
+            }
+        },
+        {
+            "name": "Tag Name (HTML) - Forest Critters",
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#E989A3"
+            }
+        },
+        {
+            "name": "Tag Attribute - Treasure Chest",
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#11B7E7"
+            }
+        },
+        {
+            "name": "Operator - Magic Powder",
+            "scope": "keyword.operator, keyword.operator.expression, keyword.operator.arithmetic",
+            "settings": {
+                "foreground": "#65D1CC"
+            }
+        },
+        {
+            "name": "Support Function - Instrument of the Sirens",
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#11B7E7"
+            }
+        },
+        {
+            "name": "Support Class - Ocarina Songs",
+            "scope": "support.class, support.type",
+            "settings": {
+                "foreground": "#E6B856"
+            }
+        },
+        {
+            "name": "Constants - Secret Seashell",
+            "scope": "constant.language.boolean, constant.language.null",
+            "settings": {
+                "foreground": "#EC4600"
+            }
+        },
+        {
+            "name": "Markdown Heading - Diorama Title",
+            "scope": "markup.heading.markdown",
+            "settings": {
+                "foreground": "#E989A3",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Markdown Link - Warp Hole",
+            "scope": "markup.underline.link.markdown",
+            "settings": {
+                "foreground": "#11B7E7"
+            }
+        },
+        {
+            "name": "Diff: Added - Heart Container",
+            "scope": "markup.inserted.diff",
+            "settings": {
+                "foreground": "#A4F781"
+            }
+        },
+        {
+            "name": "Diff: Deleted - Shard of Dream",
+            "scope": "markup.deleted.diff",
+            "settings": {
+                "foreground": "#EC4600"
+            }
+        },
+        {
+            "name": "Diff: Changed - Fairy",
+            "scope": "markup.changed.diff",
+            "settings": {
+                "foreground": "#E6B856"
+            }
+        }
+    ]
+}
