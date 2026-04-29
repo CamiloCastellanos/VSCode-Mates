@@ -1,0 +1,244 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Mates Cartoon Morning",
+    "type": "light",
+    "colors": {
+        "editor.background": "#FFF9E8",
+        "editor.foreground": "#4A3B2C",
+        "editor.lineHighlightBackground": "#FFF2D7",
+        "editor.selectionBackground": "#FFE0B5",
+        "editor.inactiveSelectionBackground": "#F7E8D0",
+        "editorCursor.foreground": "#F6A7C1",
+        "editorWhitespace.foreground": "#E2D8C0",
+        "editorIndentGuide.background": "#EDE0CC",
+        "editorIndentGuide.activeBackground": "#CBB99A",
+        "editorLineNumber.foreground": "#C6B69A",
+        "editorLineNumber.activeForeground": "#F6A7C1",
+        "editorBracketHighlight.foreground1": "#F9A26C",
+        "editorBracketHighlight.foreground2": "#6CC4B6",
+        "editorBracketHighlight.foreground3": "#F6C358",
+        "editorGutter.addedBackground": "#B0DFB0",
+        "editorGutter.modifiedBackground": "#F9D97E",
+        "editorGutter.deletedBackground": "#F4A2A2",
+        "terminal.background": "#FFF9E8",
+        "terminal.foreground": "#4A3B2C",
+        "terminal.ansiBlack": "#E2D8C0",
+        "terminal.ansiRed": "#F4A2A2",
+        "terminal.ansiGreen": "#B0DFB0",
+        "terminal.ansiYellow": "#F9D97E",
+        "terminal.ansiBlue": "#9BC6F2",
+        "terminal.ansiMagenta": "#F6A7C1",
+        "terminal.ansiCyan": "#6CC4B6",
+        "terminal.ansiWhite": "#FFF3E0",
+        "panel.background": "#FFF9E8",
+        "sideBar.background": "#FFF3E0",
+        "sideBar.foreground": "#4A3B2C",
+        "sideBarTitle.foreground": "#F6A7C1",
+        "activityBar.background": "#FFE8D6",
+        "activityBar.foreground": "#F6A7C1",
+        "activityBar.inactiveForeground": "#CBB99A",
+        "statusBar.background": "#FFE8D6",
+        "statusBar.foreground": "#4A3B2C",
+        "statusBar.noFolderBackground": "#FFF9E8",
+        "titleBar.activeBackground": "#FFF9E8",
+        "titleBar.activeForeground": "#4A3B2C",
+        "titleBar.inactiveBackground": "#FFF3E0",
+        "titleBar.inactiveForeground": "#CBB99A",
+        "input.background": "#FFF3E0",
+        "input.foreground": "#4A3B2C",
+        "input.placeholderForeground": "#CBB99A",
+        "dropdown.background": "#FFF3E0",
+        "dropdown.foreground": "#4A3B2C",
+        "list.activeSelectionBackground": "#FFE8D6",
+        "list.activeSelectionForeground": "#F6A7C1",
+        "list.hoverBackground": "#FFF0E0",
+        "tab.activeBackground": "#FFF9E8",
+        "tab.activeForeground": "#F6A7C1",
+        "tab.inactiveBackground": "#FFF3E0",
+        "tab.inactiveForeground": "#CBB99A",
+        "tab.border": "#EDE0CC",
+        "scrollbarSlider.background": "#FFE0B5",
+        "scrollbarSlider.hoverBackground": "#F6C358",
+        "scrollbarSlider.activeBackground": "#F9A26C"
+    },
+    "tokenColors": [
+        {
+            "name": "Comment - Playful whisper",
+            "scope": "comment",
+            "settings": {
+                "foreground": "#B8A88C",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "String - Banana milkshake",
+            "scope": "string",
+            "settings": {
+                "foreground": "#6CC4B6"
+            }
+        },
+        {
+            "name": "Number - Building blocks",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#F9A26C"
+            }
+        },
+        {
+            "name": "Keyword - Crayon pink",
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#F6A7C1",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Keyword control - Toy robot",
+            "scope": "keyword.control",
+            "settings": {
+                "foreground": "#F6A7C1"
+            }
+        },
+        {
+            "name": "Function name - Sunny sky",
+            "scope": "entity.name.function, meta.function-call.generic",
+            "settings": {
+                "foreground": "#9BC6F2"
+            }
+        },
+        {
+            "name": "Function definition - Cloud fluff",
+            "scope": "meta.function entity.name.function",
+            "settings": {
+                "foreground": "#9BC6F2"
+            }
+        },
+        {
+            "name": "Parameters - Jelly beans",
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#F9D97E"
+            }
+        },
+        {
+            "name": "Variable - Wooden toy",
+            "scope": "variable, variable.other.readwrite, variable.other.object",
+            "settings": {
+                "foreground": "#4A3B2C"
+            }
+        },
+        {
+            "name": "Language variable - Magic word",
+            "scope": "variable.language",
+            "settings": {
+                "foreground": "#F6A7C1"
+            }
+        },
+        {
+            "name": "Class name - Lego brick",
+            "scope": "entity.name.class, entity.name.type, entity.name.type.class",
+            "settings": {
+                "foreground": "#F9D97E"
+            }
+        },
+        {
+            "name": "Tag name (HTML) - Sticker",
+            "scope": "entity.name.tag",
+            "settings": {
+                "foreground": "#F4A2A2"
+            }
+        },
+        {
+            "name": "Tag attribute - Balloon string",
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#6CC4B6"
+            }
+        },
+        {
+            "name": "Operator - Connecting blocks",
+            "scope": "keyword.operator, keyword.operator.expression, keyword.operator.arithmetic",
+            "settings": {
+                "foreground": "#F9A26C"
+            }
+        },
+        {
+            "name": "Punctuation - Crayon dot",
+            "scope": "punctuation, punctuation.separator, punctuation.definition",
+            "settings": {
+                "foreground": "#CBB99A"
+            }
+        },
+        {
+            "name": "Support function - Helper friend",
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#9BC6F2"
+            }
+        },
+        {
+            "name": "Support class - Storybook character",
+            "scope": "support.class, support.type",
+            "settings": {
+                "foreground": "#F9D97E"
+            }
+        },
+        {
+            "name": "Constants (true/false/null) - Yes/No button",
+            "scope": "constant.language.boolean, constant.language.null",
+            "settings": {
+                "foreground": "#F6C358"
+            }
+        },
+        {
+            "name": "Decorator - Sticker sparkle",
+            "scope": "meta.decorator, punctuation.definition.annotation",
+            "settings": {
+                "foreground": "#6CC4B6"
+            }
+        },
+        {
+            "name": "JSON key - Label on toy box",
+            "scope": "support.type.property-name.json, meta.structure.dictionary.json string.quoted.double.json",
+            "settings": {
+                "foreground": "#F9A26C"
+            }
+        },
+        {
+            "name": "Markdown heading - Chalkboard title",
+            "scope": "markup.heading.markdown",
+            "settings": {
+                "foreground": "#F6A7C1",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Markdown link - Treasure map",
+            "scope": "markup.underline.link.markdown",
+            "settings": {
+                "foreground": "#9BC6F2"
+            }
+        },
+        {
+            "name": "Diff: added - New crayon",
+            "scope": "markup.inserted.diff",
+            "settings": {
+                "foreground": "#B0DFB0"
+            }
+        },
+        {
+            "name": "Diff: deleted - Broken toy",
+            "scope": "markup.deleted.diff",
+            "settings": {
+                "foreground": "#F4A2A2"
+            }
+        },
+        {
+            "name": "Diff: changed - Repainted",
+            "scope": "markup.changed.diff",
+            "settings": {
+                "foreground": "#F9D97E"
+            }
+        }
+    ]
+}
